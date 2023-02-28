@@ -147,8 +147,9 @@ p:last-child {
     color: #ffffff;
     background-color: #855235;
     -webkit-box-shadow: 0 13px 27px 0 rgb(143, 91, 74);
-    box-shadow: 0 8px 17px 0 rgb(103, 64, 51);
+    box-shadow: 0 1px 5px 0 rgb(103, 64, 51);
 }
+
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #ffffff;
     background: #0e314c;
@@ -2522,7 +2523,7 @@ Team CSS
 }
 
 .single-team .team-info {
-    background: linear-gradient(135deg,#44ce6f 0%,#44ce6f 100%);
+    background: linear-gradient(135deg,#44ce6f 0%,#76dd96 100%);
     padding: 10px 15px;
     border-radius: 75px;
     margin-bottom: 25px;

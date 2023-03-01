@@ -114,6 +114,9 @@ p:last-child {
 .bg-f9f6f6 {
     background-color: #f9f6f6;
 }
+.bg-f1fdff {
+    background-color: #f1fdff;
+}
 .bg-f9fafb {
     background-color: #f9fafb;
 }
@@ -2532,6 +2535,7 @@ Team CSS
     margin-top: 25px;
     -webkit-transition: 0.5s;
     transition: 0.5s;
+    width: 50%;
 }
 
 .single-team .team-info h3 {

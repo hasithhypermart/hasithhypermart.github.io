@@ -332,6 +332,11 @@
     .single-team .team-content .team-info {
         margin-right: 10px;
         margin-left: 10px;
+        width: 100%!important;
+    }
+    .single-team.team-info {
+        margin-right: 10px;
+        margin-left: 10px;
     }
     .single-team .team-content .team-info h3 {
         font-size: 17px;
@@ -2199,6 +2204,10 @@
     }
     .agency-about-content {
         max-width: 475px;
+    }
+
+    .single-team .team-info {
+        width: 100%!important;
     }
 
 }
